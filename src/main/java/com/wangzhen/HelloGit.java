@@ -5,6 +5,7 @@ public class HelloGit {
         System.out.println("hello git hub");
         System.out.println("更新一");
         System.out.println("创建dev分支");
+        System.out.println("主干添加");
 
     }
 }
