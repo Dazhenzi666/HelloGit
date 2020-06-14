@@ -10,5 +10,6 @@ public class HelloGit {
         System.out.println("1");
         System.out.println("在线更新");
         System.out.println("克隆着添加");
+        System.out.println("更新到码云托管");
     }
 }
