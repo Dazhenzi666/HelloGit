@@ -12,5 +12,8 @@ public class HelloGit {
         System.out.println("克隆着添加");
         System.out.println("更新到码云托管");
         System.out.println("更新到码云托管0626");
+        System.out.println("更新到码云托管0626");
+        System.out.println("更新到码云托管0626");
+        System.out.println("更新到码云托管0626");
     }
 }
