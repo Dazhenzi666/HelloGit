@@ -1,5 +1,7 @@
 package com.wangzhen;
 
+import com.wangzhen.Entity.book;
+
 public class HelloGit {
     public static void main(String[] args) {
         System.out.println("hello git hub");
@@ -17,5 +19,7 @@ public class HelloGit {
         System.out.println("更新到码云托管0626");
         System.out.println("更新到码云托管0626");
         System.out.println("更新到码云托管0627");
+        book book = new book();
+        book.setName("哈哈");
     }
 }
